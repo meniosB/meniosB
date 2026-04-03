@@ -1,5 +1,3 @@
-# About me
-
 <h1 align="center">Hi 👋, I'm Menelaos</h1>
 <h3 align="center">Senior Software Engineer | Backend-focused | System thinker</h3>
 
